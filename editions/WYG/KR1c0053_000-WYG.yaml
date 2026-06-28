@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1c0053/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部三
+  hash: sha256:cb15cdc798f7ad6d97c6a06d82684919eb432f17fa36f28d4b42e53a43363542
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1c0053_WYG_000-1a, image: WYG0086/WYG0086-0233a.png}
+body:
+  text: 詩傳詩説駁義詩類提要臣等謹案詩傳詩説駁義五卷國朝毛竒齡撰明嘉靖中鄞人豐坊作魯詩世學一書往往自出新義得解於舊註之外恐其説之不信遂託言家有魯詩為其逺祖稷所傳一為子貢詩傳一為申培詩説並列所作世學中厥後郭子章傳刻二書自稱得黄佐所藏秘閣石本於是二書乃單行明代説詩諸家以其言往往近理多採用之遂盛傳於時竒齡因其託名於古乃引證諸書以紏之夫易傳託之於子夏書傳託之於孔安國其説之可取者皆行於世其源流授受則説經之家務核其真竒齡是書不以其説為可廢而於依託之處則一一辨之亦可謂持平之論矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8e4aa673fcf5454eb00ec5b1917ab773a34c493eee5104dd0f2ba4e2ff45ac31
+metadata:
+  title: 詩傳詩說駁義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:06:36.635968'
+  source:
+    repository: kanripo
+    path: KR1c0053/KR1c0053_000.txt
+hash: sha256:d40e8518837ba28e81748ee3e120b84e3ae1c1b7fc4ae702043b53cbcb9817dc
